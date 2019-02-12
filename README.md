@@ -33,5 +33,5 @@ React Native Environment Info:
       react-native-cli: 2.0.1
 ```
 
-![iOS Simulator screenshot](./screenshots/iOS-simulator.png)
-![iOS Device screenshot](./screenshots/iOS-device.jpg)
+<img src="./screenshots/iOS-simulator.png" alt="drawing" width="300"/>
+<img src="./screenshots/iOS-device.jpg" alt="drawing" width="300"/>
